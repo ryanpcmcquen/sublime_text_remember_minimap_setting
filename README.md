@@ -13,5 +13,5 @@ The Minimap can still be toggled with the Command Palette's "Toggle Minimap".
 
 It can be applied to specific langagues, or globally.
 
-Based on (thanks to @math2001):
+Based on (thanks to [@math2001](https://gist.github.com/math2001)):
 https://gist.github.com/math2001/ca8f71e38ad12ff157b34d5425d50ec7
