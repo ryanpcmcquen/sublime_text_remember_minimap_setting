@@ -1,4 +1,4 @@
-# Show Minimap Setting
+# Remember Minimap Setting
 
 Adds a setting for showing or hiding the minimap.
 
